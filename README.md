@@ -3,6 +3,8 @@ TOMO
 
 TOMO is a Touch Synthesizer board based on Arduino.
 
+<img src="TOMO.jpg" alt="TOMO" style="width: 100%"/>
+
 ### What is TOMO?
 
 ##TO
