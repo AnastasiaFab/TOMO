@@ -1,7 +1,7 @@
 The TOMO board
 ==============
 
-![image](TOMO.png?raw=true=450x)
+<img src="TOMO.png" alt="TOMO" width="450"/>
 
 Check the the Eagles and the PDF schematic for more information. 
 
