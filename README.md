@@ -11,7 +11,7 @@ TOMO is a Touch Synthesizer board based on Arduino.
 
 ##MO
 
-**MO** means [Mozzi](http://sensorium.github.io/Mozzi/) an amazing library for sound synthesis library for Arduino developed by [Tim Barrass](http://www.reverberant.com/pp/barrass.htm).
+**MO** means [Mozzi](http://sensorium.github.io/Mozzi/) an amazing library for sound synthesis library for Arduino developed by [Tim Barrass](http://www.reverberant.com/pp/barrass.htm). This means you can create sounds with it from simple tones to delays and echos. We will soon add *.WAV palying functionality too.
 
 ### How is TOMO?
 
