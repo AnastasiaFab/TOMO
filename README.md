@@ -23,7 +23,7 @@ TOMO
 * Portable
 * Easy
 * Fun
-* and it tuns on batteries for a week!
+* and it runs on batteries for a week!
 
 
 ### Project team:
