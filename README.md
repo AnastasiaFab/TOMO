@@ -11,7 +11,7 @@ TOMO
 
 ##TO
 
-**TO** means touch. Tomo uses **Swept Frequency Capacitive Sensing (SFCS)** a concept explored by [Disney Research Labs](http://www.disneyresearch.com/) on this [paper](http://www.disneyresearch.com/wp-content/uploads/touchechi2012.pdf). The Arduino implementation is based on the documentation by [ILLUTRON](http://illutron.dk/Instructable-Use-Any-Surface-as-a-Touch-Interface-with-Arduino) and developed by [Cleniem](https://github.com/clemniem). The ongoing research on SFCS can be found at fablabbcn/TouchE](https://github.com/fablabbcn/TouchE).
+**TO** means touch. Tomo uses **Swept Frequency Capacitive Sensing (SFCS)** a concept explored by [Disney Research Labs](http://www.disneyresearch.com/) on this [paper](http://www.disneyresearch.com/wp-content/uploads/touchechi2012.pdf). The Arduino implementation is based on the documentation by [ILLUTRON](http://illutron.dk/Instructable-Use-Any-Surface-as-a-Touch-Interface-with-Arduino) and developed by [Cleniem](https://github.com/clemniem). The internal ongoing research on SFCS can be found at [fablabbcn/TouchE](https://github.com/fablabbcn/TouchE).
 
 ##MO
 
