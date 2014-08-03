@@ -28,7 +28,7 @@ TOMO
 
 ### Project team:
 
-This project was developed with the support of the [EASTN (The European Art-Science-Technology Network)](https://github.com/eastn.eu) at [Fab Lab Barcelona](http://www.fablabbcn.org/).
+This project was developed with the support of the [EASTN (The European Art-Science-Technology Network)](https://github.com/eastn.eu) at [Fab Lab Barcelona](http://www.fablabbcn.org/). The first real setup was done for the [FAV Festival](http://festivaldesarchitecturesvives.com/) in Monpellier in June 2014.
 
 * [Cleniem](https://github.com/clemniem) 
 * [Pral2a](https://github.com/pral2s)
