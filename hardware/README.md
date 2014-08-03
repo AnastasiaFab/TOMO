@@ -1,7 +1,7 @@
 The TOMO board
 ==============
 
-![image](TOMO.png =450x)
+![image](https://raw.githubusercontent.com/fablabbcn/TOMO/master/hardware/TOMO.png=450x)
 
 Check the the Eagles and the PDF schematic for more information. 
 
