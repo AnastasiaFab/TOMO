@@ -1,4 +1,4 @@
-<img src="https://rawgit.com/fablabbcn/TOMO/master/LOGO.svg" alt="TOMO" style="width: 10px"/>
+<img src="https://rawgit.com/fablabbcn/TOMO/master/LOGO.svg" alt="TOMO"/>
 
 #### TOMO is a programmable Touch Synthesizer board based on Arduino. 
 
